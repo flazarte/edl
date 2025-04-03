@@ -519,7 +519,6 @@ graylostwin.ru
 goozr.fnmvjkj7rhe3bs1.shop
 goozp.aslfd9okdj4dnn.shop
 googlsearchings.online
-gmail-smtp-in.l.google.com
 gm161.com
 glossping.eu
 getmonero.org
@@ -663,9 +662,6 @@ appliedmaternity.com
 api.pcloud.com
 am365.287144.vip
 am201.182544.vip
-alt3.gmail-smtp-in.l.google.com
-alt2.gmail-smtp-in.l.google.com
-alt1.gmail-smtp-in.l.google.com
 allfont.ru
 ahxfdj.com
 aep-cs-blobstore-prod-jpn3-data.s3-ap-northeast-1.amazonaws.com
