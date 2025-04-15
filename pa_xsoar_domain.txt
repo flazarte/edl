@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 indobit.io
 hange.pi-usdt.o-r.kr
 weatherdatahub.org
@@ -33,7 +34,6 @@ ikechi2.duckdns.org
 r3.o.lencr.org
 getstockprice.com
 api.coinhar.io
-chrome.nativemessaging.in
 api.coinpricehub.io
 cdn.logoeye.net
 focused-moore.165-227-157-172.plesk.page
