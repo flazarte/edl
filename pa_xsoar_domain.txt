@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 ms-azure.azdatastore.workers.dev
 wg.gooogleasia.com
 lin.huionepay.me
@@ -74,7 +75,6 @@ fotos-phillips-princess-baker.trycloudflare.com
 medicine-podcasts-halo-expected.trycloudflare.com
 spa-step-hopkins-islands.trycloudflare.com
 scientific-shown-desperate-ratio.trycloudflare.com
-chrome.nativemessaging.in
 allhoteldirectlunk.blogspot.com
 7000linknewembes.blogspot.com
 yandex.com
