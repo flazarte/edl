@@ -1,3 +1,5 @@
+r3.o.lencr.org
+haiwai-ic.ksosoft.com
 disintegrateredundancyfen.com
 shotgunchancecruel.com
 nannyirrationalacquainted.com
@@ -104,7 +106,6 @@ en.stockslab.org
 remsw.ydns.eu
 twltch.lol
 cooinbase.net
-haiwai-ic.ksosoft.com
 update.jquerycloud.io
 oni22.duckdns.org
 real3232afa.duckdns.org
@@ -121,7 +122,6 @@ api.ethzone.io
 st0746.net
 mavenradar.com
 ikechi2.duckdns.org
-r3.o.lencr.org
 getstockprice.com
 api.coinhar.io
 api.coinpricehub.io
