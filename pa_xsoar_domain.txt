@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 api.kingnfc.com
 api.payforce-x.com
 api.kingcardnfc.com
@@ -17,7 +18,6 @@ playstore-spain.com
 playstors-gr.com
 playstores-france.com
 competitivewindscreens.com.au
-chrome.nativemessaging.in
 shotgunchancecruel.com
 disintegrateredundancyfen.com
 undocs.myvnc.com
