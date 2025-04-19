@@ -1,3 +1,4 @@
+chcp.com
 chrome.nativemessaging.in
 api.kingnfc.com
 api.payforce-x.com
@@ -203,7 +204,6 @@ blockprices.io
 klck.pw
 phicmune.net
 crawfordresidentialmillet.com
-chcp.com
 pom.properties
 specialsseason.com
 1vpns.com
