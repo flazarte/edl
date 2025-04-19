@@ -1,4 +1,5 @@
 chrome.nativemessaging.in
+r3.o.lencr.org
 chcp.com
 api.kingnfc.com
 api.payforce-x.com
@@ -48,7 +49,6 @@ securedrive.root.sx
 undocs.servehttp.com
 leotolstoys.com
 haiwai-ic.ksosoft.com
-r3.o.lencr.org
 nannyirrationalacquainted.com
 invadedisheartentrail.com
 kzt2afc1rp52.com
