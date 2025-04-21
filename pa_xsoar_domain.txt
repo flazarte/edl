@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 healthaidhub.org
 localaid.co
 srv510786.hstgr.cloud
@@ -25,7 +26,6 @@ subsidyaid.com
 mil-by.info
 assistanceadvocates.org
 haiwai-ic.ksosoft.com
-chrome.nativemessaging.in
 r3.o.lencr.org
 yandex.com
 cognatesyringe.com
