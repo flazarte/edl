@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 valtorynexon.eu
 valtryventyx.eu
 webmail.biam-iraq.org
@@ -11,7 +12,6 @@ plenoryvantyx.eu
 biam-iraq.org
 webdisk.biam-iraq.org
 cpcontacts.biam-iraq.org
-chrome.nativemessaging.in
 r3.o.lencr.org
 www2.0zz0.com
 apollo-page.r-e.kr
