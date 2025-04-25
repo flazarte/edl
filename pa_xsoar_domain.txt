@@ -1,3 +1,4 @@
+r3.o.lencr.org
 chrome.nativemessaging.in
 bookings.blocknovas.com
 easydriver.cloud
@@ -49,7 +50,6 @@ plenoryvantyx.eu
 biam-iraq.org
 webdisk.biam-iraq.org
 cpcontacts.biam-iraq.org
-r3.o.lencr.org
 www2.0zz0.com
 apollo-page.r-e.kr
 access-apollo-page.r-e.kr
