@@ -507,6 +507,7 @@ ip_address,1.183.7.222
 ip_address,1.181.69.30
 ip_address,1.164.120.117
 ipv6test.hz1818.com.cn
+ip-info.ff.avast.com
 interbuzznews.com
 ii.apl326.me
 iconcardinal.com
