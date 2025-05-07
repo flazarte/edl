@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 connect.mozilla.one
 apps.gist.githubapp.net
 s3.solarcom.ch
@@ -21,7 +22,6 @@ hewlettpackardupdates.info
 evrryday.com
 trade4wealth.in
 sunpass.com-tyjr.cc
-chrome.nativemessaging.in
 inde-faturas.com
 autoridade-tributaria.com
 haiwai-ic.ksosoft.com
