@@ -1,5 +1,5 @@
-chrome.nativemessaging.in
 baidu.com
+chrome.nativemessaging.in
 xmr-eu1.nanopool.org
 api.wordinfos.com
 singaporejobvacancy.bygo.win
