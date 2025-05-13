@@ -1,4 +1,5 @@
 chrome.nativemessaging.in
+baidu.com
 xmr-eu1.nanopool.org
 api.wordinfos.com
 singaporejobvacancy.bygo.win
@@ -218,7 +219,6 @@ anar.gleeze.com
 wishinghonourederratic.com
 decorationmercifulmonth.com
 stallsobservance.com
-baidu.com
 chcp.com
 www.megamodelstudio.com
 polk.website
