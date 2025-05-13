@@ -1,3 +1,4 @@
+onedrive.office-note.com
 baidu.com
 chrome.nativemessaging.in
 xmr-eu1.nanopool.org
@@ -2497,4 +2498,3 @@ ezdrivema.com-huooox.top
 ezdrivema.com-hrtopf.top
 ezdrivema.com-kgzdj32.top
 ezdrivema.com-ioiakwrp.top
-ezdrivema.com-gdsgdfd.top
