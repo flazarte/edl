@@ -1,3 +1,4 @@
+haiwai-ic.ksosoft.com
 chrome.nativemessaging.in
 ac.metyp9.com
 time.vmwaresync.com
@@ -36,7 +37,6 @@ windows-updates.com
 n3atscbl8r7ro7i1e2q0b12eu1.appsync-api.eu-west-1.avsvmcloud.com
 microsoft-msteams.com
 tevav.co.za
-haiwai-ic.ksosoft.com
 gunchenko.tech
 i.ooxx.ooo
 logitechwkgame.com
