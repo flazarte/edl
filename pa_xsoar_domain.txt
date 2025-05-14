@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 ac.metyp9.com
 time.vmwaresync.com
 service.symantecsecuritycloud.com
@@ -7,7 +8,6 @@ server.microsoftsvc.com
 client.wns.windowswns.com
 onedrive.office-note.com
 baidu.com
-chrome.nativemessaging.in
 xmr-eu1.nanopool.org
 api.wordinfos.com
 singaporejobvacancy.bygo.win
