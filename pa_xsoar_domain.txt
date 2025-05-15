@@ -1,8 +1,8 @@
+chrome.nativemessaging.in
 xmr-eu1.nanopool.org
 haiwai-ic.ksosoft.com
 aaa.ki6zmfw3ps8q14rfbfczfq5qkhq8e12q.oastify.com
 trycloudflare.com
-chrome.nativemessaging.in
 ac.metyp9.com
 time.vmwaresync.com
 service.symantecsecuritycloud.com
