@@ -1,6 +1,7 @@
+xmr-eu1.nanopool.org
+haiwai-ic.ksosoft.com
 aaa.ki6zmfw3ps8q14rfbfczfq5qkhq8e12q.oastify.com
 trycloudflare.com
-haiwai-ic.ksosoft.com
 chrome.nativemessaging.in
 ac.metyp9.com
 time.vmwaresync.com
@@ -11,7 +12,6 @@ server.microsoftsvc.com
 client.wns.windowswns.com
 onedrive.office-note.com
 baidu.com
-xmr-eu1.nanopool.org
 api.wordinfos.com
 singaporejobvacancy.bygo.win
 echs-pcmdb.sourceinfosys.com
