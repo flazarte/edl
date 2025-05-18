@@ -2377,6 +2377,7 @@ j051q2hft2mbhvj3dvv2.appsync-api.us-west-2.avsvmcloud.com
 ixbtx.com
 ivdkamavjf7s4vcw6d6n0c6j0ieu.appsync-api.us-east-1.avsvmcloud.com
 itweepinbelltor.com
+itp.s2stracking.com
 itechcube.xyz
 italzformendinggallores.duckdns.org
 it4.prmsrvs.com
@@ -2700,6 +2701,7 @@ ip_address,1.164.120.117
 ipzse.com
 ipv6test.hz1818.com.cn
 ipv4.renfei.net
+ipm.adblock.dev
 iplogger.org
 iphone.vizvaz.com
 ipafranchest.com
@@ -2737,6 +2739,7 @@ immediateluminary.com
 img2.cloudappconfig.com
 img1.cloudappconfig.com
 img0.cloudappconfig.com
+images.wallpapersden.com
 im55nuau5ptq6inwjed10ee2h.appsync-api.us-east-1.avsvmcloud.com
 iltolls.com
 ilroad.com
@@ -2882,6 +2885,7 @@ gtoimage.com
 gtgwa.com
 gsosnub8zg3.top
 gshzjd.com
+gshnx.top
 gshnx.icu
 grupofredd.com
 grraysel.cyou
@@ -12635,6 +12639,7 @@ dae7jsoakoq01kmugmmpm0b.appsync-api.us-west-2.avsvmcloud.com
 d6n6sr6l7c5as05r9uf29l49711e.appsync-api.us-east-2.avsvmcloud.com
 d6amofiedc4nfbbswo11r0oirssrc2vv.appsync-api.us-east-2.avsvmcloud.com
 d56g8g5s2h1dfvridr04.appsync-api.us-east-2.avsvmcloud.com
+d1r4k.top
 d1ddjl7g30lugkrrde6e20ge2h.appsync-api.us-west-2.avsvmcloud.com
 d16789.com
 d.sourcepoint.classicfm.com
@@ -12787,6 +12792,7 @@ checkpageonce.com
 check.wejyj.icu
 check-updates.com
 chcp.com
+chatursply.com
 charterssonidp.com
 char0nbaby.online
 change.pi-usdt.o-r.kr
@@ -13202,6 +13208,7 @@ aperoyaleplay.com
 aperoyale.net
 aoc0te6n2lot4hkop2sji2v0ee25p.appsync-api.us-east-2.avsvmcloud.com
 anyconnect.stream
+antpeak.com
 antivirus-protection.com-123.xyz
 animaliagame.xyz
 animaliagame.net
@@ -13280,6 +13287,7 @@ admin.nslookupdns.com
 admicrosoft.com
 adfpoint.com
 addi.apple.cloudns.org
+adblock-master.org
 adap71dua4q75f031gpm91r.appsync-api.us-east-2.avsvmcloud.com
 activity.windows.com
 activity-google.com
