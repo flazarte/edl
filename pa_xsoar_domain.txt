@@ -1,3 +1,5 @@
+baidu.com
+haiwai-ic.ksosoft.com
 chrome.nativemessaging.in
 lidlorg.com
 ketersale.shop
@@ -74,7 +76,6 @@ phicmune.net
 chcp.com
 wearychallengeraise.com
 polyfill.io
-haiwai-ic.ksosoft.com
 1.zip
 terembg.com
 global-world-news.net
@@ -2651,7 +2652,6 @@ deribitglobals.com
 headset2.online
 j051q2hft2mbhvj3dvv2.appsync-api.us-west-2.avsvmcloud.com
 lfpdppdvtvjmlsw.top
-baidu.com
 casting-advisors-older-invitations.trycloudflare.com
 cjjjgubsv6egfnuq6d6n026j02eu.appsync-api.us-east-1.avsvmcloud.com
 knn04h5o149shkbhufrj.appsync-api.us-west-2.avsvmcloud.com
