@@ -1,3 +1,4 @@
+chcp.com
 klingaieditor.com
 safesurf.world
 x-theme.world
@@ -216,7 +217,6 @@ eu.stanleys1913.com
 onlinedesales.com
 filippa-k.shop
 phicmune.net
-chcp.com
 wearychallengeraise.com
 polyfill.io
 1.zip
