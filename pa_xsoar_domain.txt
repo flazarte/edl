@@ -1,4 +1,5 @@
 baidu.com
+yandex.com
 haiwai-ic.ksosoft.com
 chrome.nativemessaging.in
 lidlorg.com
@@ -3123,7 +3124,6 @@ rrrbaygxp3f2qtgvfqk6ffhdrm24ucxvbr6mhxsga4faefqyd77w7tqd.onion
 rrrbayguhgtgxrdg5myxkdc2cxei25u6brknfqkl3a35nse7f2arblyd.onion
 ssl.gstatic.kz
 dtde.ryanberardi.com
-yandex.com
 r3.o.lencr.org
 pl15231455.cpmrevenuegate.com
 note.dnsrd.com
