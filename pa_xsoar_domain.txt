@@ -1,5 +1,5 @@
-chrome.nativemessaging.in
 baidu.com
+chrome.nativemessaging.in
 yandex.com
 haiwai-ic.ksosoft.com
 lidlorg.com
