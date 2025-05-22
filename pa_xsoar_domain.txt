@@ -1,3 +1,4 @@
+polyfill.io
 chrome.nativemessaging.in
 baidu.com
 chcp.com
@@ -218,7 +219,6 @@ onlinedesales.com
 filippa-k.shop
 phicmune.net
 wearychallengeraise.com
-polyfill.io
 1.zip
 terembg.com
 global-world-news.net
