@@ -1,3 +1,4 @@
+baidu.com
 chcp.com
 klingaieditor.com
 safesurf.world
@@ -141,7 +142,6 @@ creativehunter.world
 digigtalwow.top
 flight-radar.life
 meta-guests.com
-baidu.com
 chrome.nativemessaging.in
 yandex.com
 haiwai-ic.ksosoft.com
