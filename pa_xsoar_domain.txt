@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 baidu.com
 chcp.com
 klingaieditor.com
@@ -142,7 +143,6 @@ creativehunter.world
 digigtalwow.top
 flight-radar.life
 meta-guests.com
-chrome.nativemessaging.in
 yandex.com
 haiwai-ic.ksosoft.com
 lidlorg.com
