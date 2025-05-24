@@ -1,3 +1,4 @@
+discord.com
 mic-tests.com
 spy.danabot.ac
 porodicno.ba
@@ -31,7 +32,6 @@ nookiespooti.com
 TPX499.dat
 ds.windowsupdate.eu.org
 techspaceinfo.com
-discord.com
 linkrequest.live
 edg499.dat
 toukfarep.com
