@@ -1,3 +1,5 @@
+polyfill.io
+heardaccumulatebeans.com
 haiwai-ic.ksosoft.com
 discord.com
 tongji.440447.com
@@ -247,7 +249,6 @@ www.7ev5.net
 www.pupua05.app
 www.lion.top
 raw.githubusercontent.com
-polyfill.io
 phacmeptaus.net
 chcp.com
 chrome.nativemessaging.in
@@ -99995,4 +99996,3 @@ grupomartucci.com
 govsafebreakthrough.com
 hdzba.score.symposiumhaiti.com
 gruporacedayca.com
-growebservice.com
