@@ -1,5 +1,5 @@
-raw.githubusercontent.com
 discord.com
+raw.githubusercontent.com
 cognatesyringe.com
 phacmeptaus.net
 polyfill.io
