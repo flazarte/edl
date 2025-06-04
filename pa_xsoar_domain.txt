@@ -1,5 +1,6 @@
-chrome.nativemessaging.in
 phacmeptaus.net
+phicmune.net
+chrome.nativemessaging.in
 waredata.com.zip
 polyfill.io
 patheer-moreinfo.com
@@ -19,7 +20,6 @@ accounts.mgovcloud.in.cloudshare.digital
 rewiewwselect.com
 rewiewqproperty.com
 bkngnet.com
-phicmune.net
 discord.com
 raw.githubusercontent.com
 cognatesyringe.com
