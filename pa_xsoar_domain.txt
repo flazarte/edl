@@ -1,3 +1,4 @@
+chrome.nativemessaging.in
 discord.com
 phicmune.net
 testgeeklab.top
@@ -917,7 +918,6 @@ feb18.freeddns.org
 carosnews.com
 olinpa.com
 domain.computer
-chrome.nativemessaging.in
 www.megamodelstudio.com
 a.mpk-krakow.pl
 phacmeptaus.net
