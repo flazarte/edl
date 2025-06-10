@@ -1,3 +1,4 @@
+yandex.com
 anyinfos.ru
 claud-mail.ru
 accouts-verification.ru
@@ -1034,7 +1035,6 @@ input.17kp.xyz
 db.17kp.xyz
 dow.17kp.xyz
 1.lusyn.xyz
-yandex.com
 paste.fo
 popcornsoft.me
 556d807df8c8a5fe567f66701b2ce4a5.arturshi.ru
