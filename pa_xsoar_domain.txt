@@ -1,3 +1,4 @@
+amanda.protoflint.com
 chrome.nativemessaging.in
 discord.com
 vamboo.n-e.kr
