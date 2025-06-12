@@ -1,3 +1,4 @@
+discord.com
 vamboo.n-e.kr
 onsungtong.n-e.kr
 nocamoto.o-r.kr
@@ -13,7 +14,6 @@ haiwai-ic.ksosoft.com
 r1deepseek-ai.com
 deepseek-platform.com
 app-updater2.app
-discord.com
 lorinash.com
 purelogs2025.duckdns.org
 cyclingonlineshop.com
