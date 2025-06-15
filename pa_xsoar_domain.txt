@@ -1,3 +1,4 @@
+discord.com
 phacmeptaus.net
 tameeeny.com
 dl5.xvipx.top
@@ -96,7 +97,6 @@ service.symantecsecuritycloud.com
 server.microsoftsvc.com
 box.com
 amanda.protoflint.com
-discord.com
 vamboo.n-e.kr
 onsungtong.n-e.kr
 nocamoto.o-r.kr
