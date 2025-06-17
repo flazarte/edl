@@ -1,3 +1,4 @@
+discord.com
 cloud.beyondnextventures.co
 mufg.tokyo
 smbc-vc.com
@@ -23,7 +24,6 @@ careers.mizuhogroup.us
 www.onlinecloud.cloud
 beyondnextventures.co
 cloud.mufg.tokyo
-discord.com
 skiff.com
 ceriossl.info
 terembg.com
