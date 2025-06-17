@@ -1,5 +1,5 @@
-chcp.com
 discord.com
+chcp.com
 haiwai-ic.ksosoft.com
 yandex.com
 chrome.nativemessaging.in
