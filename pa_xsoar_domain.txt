@@ -1,3 +1,4 @@
+box.com
 discord.com
 yandex.com
 haiwai-ic.ksosoft.com
@@ -264,7 +265,6 @@ time.vmwaresync.com
 ac.metyp9.com
 service.symantecsecuritycloud.com
 server.microsoftsvc.com
-box.com
 amanda.protoflint.com
 vamboo.n-e.kr
 onsungtong.n-e.kr
