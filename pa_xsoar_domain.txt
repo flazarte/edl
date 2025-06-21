@@ -1,4 +1,3 @@
-microsoft.windows
 www.roomako.com
 cdn.lgaircon.xyz
 cdn.phototagx.com
