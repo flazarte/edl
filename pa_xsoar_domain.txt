@@ -1,3 +1,4 @@
+copy.zip
 cdn.discordapp.com
 discord.com
 baidu.com
