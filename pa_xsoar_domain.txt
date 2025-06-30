@@ -1,3 +1,4 @@
+officecdn.microsoft.com
 copy.zip
 l3210_waredata.com.zip
 cdn.discordapp.com
