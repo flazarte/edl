@@ -1,3 +1,4 @@
+fiber13.dnsiaas.com
 cdn.discordapp.com
 officecdn.microsoft.com
 copy.zip
