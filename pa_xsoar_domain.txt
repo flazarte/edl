@@ -1,3 +1,4 @@
+rvn-eu1.nanopool.org
 fiber13.dnsiaas.com
 copy.zip
 l3210_waredata.com.zip
