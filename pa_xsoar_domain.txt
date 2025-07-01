@@ -1,3 +1,4 @@
+baidu.com
 discord.com
 gdl-cloud.works
 365work.chat
@@ -94,7 +95,6 @@ file-cloud.company
 fiber13.dnsiaas.com
 copy.zip
 l3210_waredata.com.zip
-baidu.com
 tinyplywood.com
 capaciousdrewreligion.com
 hlkvwjlvbpyuipr.top
