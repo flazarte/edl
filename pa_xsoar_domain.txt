@@ -1,4 +1,3 @@
-cyberex.quest
 rvn-eu1.nanopool.org
 fusu.cc
 serialsoft.net
