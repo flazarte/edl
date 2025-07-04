@@ -1,3 +1,4 @@
+fusu.cc
 baidu.com
 phlovel.ru
 kinda-grows-reaches-crimes.trycloudflare.com
@@ -39,7 +40,6 @@ writeup.live
 support.us05web-zoom.cloud
 tongji.440447.com
 box.com
-fusu.cc
 rvn-eu1.nanopool.org
 kida.plusdocs.kro.kr
 securedrivelog.register.im
