@@ -2146,6 +2146,7 @@ mapfre.homesecuritypc.com
 maper.info
 map2p7okj5brcdnumj28ma1.appsync-api.us-east-1.avsvmcloud.com
 mangoclone.com
+malware-filter.pages.dev
 malfors.com
 malaysiaterkini.site
 malawi-light-pill-bolt.trycloudflare.com
@@ -12867,6 +12868,7 @@ cdn.lgaircon.xyz
 cdn.leaguehub.net
 cdn.jqueryversion.net
 cdn.gupdate.net
+cdn.forbes.co
 cdn.findfakesnake.xyz
 cdn.discordapp.com
 cdn.clublogos.io
@@ -13701,6 +13703,7 @@ a.110dhfyhr.space
 150520213.space
 150520212.space
 15052021.space
+139-180-142-116.brdtnet.com
 13597-binance.com
 133bocmjd8ppsa8d00eu0los5jhea4vo.appsync-api.us-west-2.avsvmcloud.com
 1312stealing.ru
