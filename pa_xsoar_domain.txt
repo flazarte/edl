@@ -1,7 +1,5 @@
 microsoft.windows
 baidu.com
-capchabot.cc
-twtich.cc
 rosereserve.org
 arcticoins.com
 hkcapitals.com
