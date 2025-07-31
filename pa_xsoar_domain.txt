@@ -1,3 +1,6 @@
+live.airemoteplant.workers.dev
+quiet.msftlivecloudsrv.workers.dev
+automatinghrservices.workers.dev
 apps-downloads-desktop.com
 downloads-desktop-windows.com
 app-pc.com
