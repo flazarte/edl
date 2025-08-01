@@ -1,3 +1,4 @@
+baidu.com
 microsoft.windows.search
 api9.iosgaxx423.xyz
 skt9.iosgaxx423.xyz
@@ -110,7 +111,6 @@ pc-downloads-app.com
 download-desktops-app.com
 downloads-app-pc.com
 scamanje.stresserit.pro
-baidu.com
 drectggy.one
 microsoft.windows
 shipping-hr.ro
