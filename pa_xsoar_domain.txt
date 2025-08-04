@@ -56,7 +56,6 @@ xhab.grpc-test.me
 www.twex.exchange
 downloads-apps-windows.com
 app-pc-windows.com
-windows-downloads-app.com
 app-windows.com
 drectggy.one
 microsoft.windows
