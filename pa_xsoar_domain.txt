@@ -21,7 +21,6 @@ email.gov.in.indiangov.download
 email.gov.in.indiandefence.work
 email.gov.in.briefcases.email
 mod.gov.in.indiandefence.services
-updatemicfosoft.com
 mod.gov.in.modpersonnel.support
 indianarmy.nic.in.ministryofdefenceindia.org
 drdo.gov.in.nominationdrdo.report
@@ -59,7 +58,6 @@ downloads-apps-windows.com
 app-pc-windows.com
 windows-downloads-app.com
 app-windows.com
-twisted.mom
 drectggy.one
 microsoft.windows
 uhpnc.info
@@ -5309,7 +5307,6 @@ ams-live.online
 lawildfire.org
 place-my-community.ru
 17334522-coinbase.com
-victimname-sso.com
 magloball.com
 messages-coinbase.com
 att-citrix.net
