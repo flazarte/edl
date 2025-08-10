@@ -1,3 +1,4 @@
+baidu.com
 jup.co.com.trezor-wallet.io
 star.zcnet.net
 guvenbisiklet.com
@@ -522,7 +523,6 @@ jrbwcf.bukuygemoy436.shop
 docs.keitaro.io
 news.walla.re
 m.123huodong.com.cloud.cdntip.com.s2-web.dogedns.com
-baidu.com
 ewoadmlguyw.vg
 oruvshvdw.vg
 scripts.flatserv.de
