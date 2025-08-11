@@ -1,3 +1,4 @@
+baidu.com
 campanole.com
 corp-tesla.com
 hyper-tesla.com
@@ -12,7 +13,6 @@ www-tesla.com
 auth.cp-tesla.com
 prelaunch-tesla.com
 srlaptop.com
-baidu.com
 jup.co.com.trezor-wallet.io
 star.zcnet.net
 guvenbisiklet.com
