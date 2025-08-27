@@ -1,3 +1,4 @@
+chcp.com
 davidcristiano80703.con-ip.com
 loanauto.cloud
 sostenerstartup.duckdns.org
@@ -1692,7 +1693,6 @@ saurkanot.com
 greenpropertycert.com
 docsresearchgroup.com
 dactarhome.com
-chcp.com
 tongji.440447.com
 kettledroopingcontinuation.com
 wayfarerorthodox.com
