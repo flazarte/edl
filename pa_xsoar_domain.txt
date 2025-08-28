@@ -1,3 +1,4 @@
+chcp.com
 baidu.com
 simple-proxies.com
 mail.drive.gov.bd.files.updatemind52.com
@@ -158,7 +159,6 @@ xivxena.com
 wearehere.online
 voloweb.host
 mkto-i0103.com
-chcp.com
 davidcristiano80703.con-ip.com
 loanauto.cloud
 sostenerstartup.duckdns.org
