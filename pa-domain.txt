@@ -12991,7 +12991,6 @@ btcbourse.world
 btc-winnings-made.com
 bsrecov4.digital
 bsdybwo.tk
-bsc-dataseed1.binance.org
 brudget.net
 brudamot.pro
 brilliantwallaby.info
