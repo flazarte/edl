@@ -1,3 +1,4 @@
+cloudflare.redirectpartners.com
 baidu.com
 tongji.440447.com
 bignum.bit
@@ -1020,7 +1021,6 @@ mxpost.sbs
 taxydromikie.top
 fileripple.com
 verification.anydeesk.ink
-cloudflare.redirectpartners.com
 euw.devtunnels.ms
 80.euw.devtunnels.ms
 pl27435553.profitableratecpm.com
