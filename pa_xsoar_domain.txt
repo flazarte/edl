@@ -1,3 +1,4 @@
+baidu.com
 torchfriendlypay.com
 flushpersist.com
 arteldoc.com
@@ -76,7 +77,6 @@ khangar.net
 businesspdf.com
 moldova24.org
 cloudflare.redirectpartners.com
-baidu.com
 tongji.440447.com
 bignum.bit
 khbw.gwyhhcorybwjwuzh.info
