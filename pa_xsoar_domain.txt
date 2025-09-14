@@ -1,3 +1,4 @@
+cloudflare.redirectpartners.com
 xmr-eu1.nanopool.org
 unseenreport.com
 kettledroopingcontinuation.com
@@ -7115,7 +7116,6 @@ ftb.cagov-onr.cc
 ftb.ca-nt.cc
 nsx.rttv.ru
 tuta.com
-cloudflare.redirectpartners.com
 tongji.440447.com
 bignum.bit
 khbw.gwyhhcorybwjwuzh.info
