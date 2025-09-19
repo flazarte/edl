@@ -11069,7 +11069,6 @@ ngc.regular-meeting.site
 technical-support.internal-meeting.online
 support.internal-meeting.site
 yugalabs.careerboard.video
-solana.validator.blog
 support.syncmeet.online
 zoom.ukweb05.us
 ui.gcp.po.ateme.ninja
@@ -16357,14 +16356,10 @@ speedy-public.top
 kiselvipin.work
 whatsapp-download.org
 vip-whaopopp.vip
-ttxttx.com
 integrity-labs.ltd
-www.cryptoinfo-news.com
 ru.next.secure
 saurkanot.com
-greenpropertycert.com
 docsresearchgroup.com
-dactarhome.com
 aloftriottomato.com
 a.pairnewtags.com
 seemysitelive.store
@@ -27075,11 +27070,7 @@ volksbank.applogininfo.com
 update.micfosoft.com
 gov.in.nominationdrdo.report
 unicredit.appaggiornamento.com
-api9.iosgaxx423.xyz
-skt9.iosgaxx423.xyz
 bamboulacity.nova-blight.xyz
-adsocket.e13falsz.xyz
-api5.jftxm.xyz
 shadow.nova-blight.top
 api.nova-blight.top
 www.coinhub.mn
@@ -27874,7 +27865,6 @@ yandex-mypassport-accounts.ru
 jaminzaidad.com
 trabingviews.com
 merics.link
-kpt-pk.net
 permission-source-preference.ru
 winterpaymenmc.top
 winterpaymentzr.top
@@ -28529,7 +28519,6 @@ permission-my-community.ru
 telus-sso.com
 my-manager-community.ru
 community-online-manager.ru
-mod-pk.com
 winterpaymentake.top
 beeronas.com
 autodoka.com.ua
@@ -31528,7 +31517,6 @@ winterpaymentcke.top
 113912-coinbase.com
 winterpaymentfc.top
 magicadss.xyz
-ministry-pk.net
 protectedshields-storage.com
 coinbaseheip.com
 validih.shop
@@ -31754,7 +31742,6 @@ truebjj.com
 crowcatcher.com
 seneca-report.com
 community-place-types.ru
-cvix.live
 winterpaymentjd.top
 leed-consultants.com
 builds-emaar.com
@@ -34116,7 +34103,6 @@ eoelav.digital
 panhanhsyp.live
 velvetbound.run
 throwiurqe.run
-djksncb.duckdns.org
 works-clubs-attendance-vi.trycloudflare.co
 gameindideveloper.pro
 agricultural-brooks-nevertheless-hawk.trycloudflare.com
@@ -34369,7 +34355,6 @@ lavandiqbf.run
 dc-mx.0c6f2797c12d.etlwithssis.pro
 genuslhceh.live
 noblekniog.live
-depot-arrange-zero-kai.trycloudflare.com
 flour-riding-merit-refers.trycloudflare.com
 peansopk.live
 morticmbnr.run
@@ -34668,7 +34653,6 @@ developer.gserviceaccount.com
 aomeio.r-e.kr
 iam.gserviceaccount.com
 xdr-analytics.iam.gserviceaccount.com
-trycloudflare.com
 gcf-admin-robot.iam.gserviceaccount.com
 aaa.ki6zmfw3ps8q14rfbfczfq5qkhq8e12q.oastify.com
 2765516796.news-xdujuwe.xyz
