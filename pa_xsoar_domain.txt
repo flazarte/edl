@@ -14765,7 +14765,6 @@ mayoelmesdelamosca202422024.duckdns.org
 sostenermio2025.duckdns.org
 envio11-04.duckdns.org
 andersondesousa9030.con-ip.com
-keepz.duckdns.org
 deadpoolstart2054.duckdns.org
 deadpoolstart2029.duckdns.org
 deadpoolstart2024.con-ip.com
@@ -25825,7 +25824,6 @@ whatsapppc5.cn
 uspsdelivery.help
 raghubarinfotech.com
 www.es-login-netflix.help
-pingservice.blogdns.com
 wikione.de
 r3alliance.life
 lam1000.duckdns.org
