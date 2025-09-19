@@ -13498,9 +13498,6 @@ link.walshhgroup.com
 onionmail.com
 ns1.it-sharepoint.com
 email.ebsumrnit.eu
-deloittesharepoint.com
-portal-microsoftonline.com
-it-sharepoint.com
 login.walshhgroup.com
 css.mpgc10.com
 auth.enticator-secure.com
@@ -29187,7 +29184,6 @@ amalsa.ru
 flakestld.us
 instasos.ir
 exg-settings.com
-dnslog.store
 manager-safe-preference.ru
 evarchiv-dena.link
 bopiland.com
@@ -29362,7 +29358,6 @@ tddshht.com
 hareddocumentso365cloudauthstorage.com
 types-community-place.ru
 brabinfo.xyz
-opioem3zmp3bgx3qjqkh6vimkdoerrwh3uhawklm5ndv5e7k3t4edbqd.onion
 lafire.live
 manager-community-place.ru
 winterpaymenbu.top
@@ -34295,7 +34290,6 @@ aomeio.r-e.kr
 iam.gserviceaccount.com
 xdr-analytics.iam.gserviceaccount.com
 gcf-admin-robot.iam.gserviceaccount.com
-aaa.ki6zmfw3ps8q14rfbfczfq5qkhq8e12q.oastify.com
 cdn.jmp-assets.com
 date.oktrkme.com
 f68wy7o9ezwwtqc1do.oscarey.my.id
@@ -34318,8 +34312,6 @@ tatacom.duckdns.org
 epp.navy.ddns.info
 plainfeelings.com
 2i.pm
-plugin-audiofirstpiece.ml
-ssl-dns.com
 www.sixfiguredigital.group
 www.yperlize.net
 heatfungame.com
