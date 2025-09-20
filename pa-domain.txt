@@ -1941,6 +1941,7 @@ onion.shopping
 onion.photo
 oni22.duckdns.org
 onedrivenet.xyz
+onedrive.live.com
 onbara.com
 olemiss.edu
 olc62cocacn7u2q22v02eu.appsync-api.us-west-2.avsvmcloud.com
@@ -13728,6 +13729,7 @@ a.110dhfyhr.space
 2033907737.round2024-12-30.odns.m.ednsscankzl.top
 202jdr3e38aja16ohr63.appsync-api.us-west-2.avsvmcloud.com
 2024.zip
+201591-ipv4mte.gr.global.aa-rt.sharepoint.com
 2014.zzux.com
 20.zip
 2.zip
@@ -13749,11 +13751,15 @@ a.110dhfyhr.space
 1btcr12b62me0buden60ceudo1uv2f0i.appsync-api.us-east-2.avsvmcloud.com
 1berumerb.shop
 19knepufjrml1r2347im.appsync-api.us-west-2.avsvmcloud.com
+196529-ipv4mte.gr.global.aa-rt.sharepoint.com
+195574-ipv4mte.gr.global.aa-rt.sharepoint.com
+193405-ipv4mte.gr.global.aa-rt.sharepoint.com
 193141-gmail.com
 1924.site
 191b954237.4a4ac32960.com
 18shu72lull6bclce2q0b12eu1.appsync-api.eu-west-1.avsvmcloud.com
 18f5phqbdbg6etec26c0g12eu1.appsync-api.eu-west-1.avsvmcloud.com
+189444-ipv4mte.gr.global.aa-rt.sharepoint.com
 185679-binance.com
 185674-gmail.com
 1833.site
