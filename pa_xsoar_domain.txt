@@ -1,3 +1,4 @@
+polyfill.io
 xmr-eu1.nanopool.org
 phicmune.net
 cardforum.cc
@@ -34619,7 +34620,6 @@ windows-updates.com
 b.pool.gq
 f.pooling.cf
 waredata.com.zip
-polyfill.io
 badgustrewivers.com.com
 ezdrivema.com-recy.top
 ssl.gstatic.kz
