@@ -1,3 +1,4 @@
+manager.name
 tmpfiles.org
 i-soon.net
 almightychoice.online
