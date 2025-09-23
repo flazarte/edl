@@ -1,4 +1,3 @@
-manager.name
 traveltipspage.com
 cloudaskquestionanswers.com
 thetacticstore.com
