@@ -1,3 +1,4 @@
+chcp.com
 torchfriendlypay.com
 availabilitydesired.us
 earth.monovm.com
@@ -10038,7 +10039,6 @@ polyfill.io
 xmr-eu1.nanopool.org
 7thclub.com
 i.top4top.io
-chcp.com
 5-9-52-164.top
 b1ackstash.cc
 doc-sign.docsfinder.org
