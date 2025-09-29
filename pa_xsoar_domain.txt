@@ -1,3 +1,4 @@
+torchfriendlypay.com
 cdn.discordapp.com
 q0.wf
 kettledroopingcontinuation.com
@@ -199,7 +200,6 @@ vansync.net
 lalindustries.com
 advanceorthocenter.com
 chcp.com
-torchfriendlypay.com
 availabilitydesired.us
 earth.monovm.com
 dobetrix.ru
