@@ -1,3 +1,6 @@
+login.principal.user.email
+http.principal.user.email
+oauth.security
 sv-weebly-manage.solarflevoland.nl
 www.aeoj.org
 ebox.terugbetaling.online
@@ -30983,7 +30986,6 @@ somexotic.ru
 xn--80abwhqgr.com
 serialyrusskie.online
 wruintol.life
-www.vmklsfdv.duckdns.org
 veyapat.live
 testdcway.ru
 ns1.akademiyuspeha.ru
@@ -32129,7 +32131,6 @@ wellcontrolzers.ru
 ranchoarroyonaranjo.com
 spiderofficialshop.com
 www.expresshomebuyers.com
-www.savaswsd.duckdns.org
 spitzlei-corp.vip
 www.oegexpress.com
 tognle.cfd
@@ -36608,7 +36609,6 @@ infores-developer.pl
 postas-mk.icu
 spcosm.ru
 italsandisinfestazioni.it
-www.cvawrs.duckdns.org
 thechangeground.com
 www.remyvanulden.nl
 paperanswers.com
@@ -36810,7 +36810,6 @@ www.etudiant-voyageur.fr
 webextension.accesscam.org
 mypartybox.com.au
 www.betlottohangseng.com
-www.asdfavae.duckdns.org
 nearmedirectories.net
 ukrposhtaea.top
 spironolacton.nl
