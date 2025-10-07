@@ -1,3 +1,4 @@
+phicmune.net
 gwadarport.ddns.net
 fnbo-access.icu
 arvest-login.icu
@@ -170,7 +171,6 @@ huntington-acc.com
 microsoft.windows.search
 proxies.com
 cardforum.cc
-phicmune.net
 polyfill.io
 kettledroopingcontinuation.com
 scamanje.stresserit.pro
