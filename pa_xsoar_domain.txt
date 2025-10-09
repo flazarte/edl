@@ -1,3 +1,13 @@
+windows-app.store
+twmoc.info
+api.twmoc.info
+outlook.windows-app.store
+sliddeshare.online
+onedrive.azure-app.store
+azure-app.store
+doccloude.info
+app-site-association.cdn-apple.info
+cdn-apple.info
 123chill.site
 phicmune.net
 ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion
