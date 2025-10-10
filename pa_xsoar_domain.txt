@@ -1,3 +1,4 @@
+cardforum.cc
 crdcrew.cc
 host.404111.xyz
 gd.bj2.xyz
@@ -85,7 +86,6 @@ c.mid.al
 94-130-16-162.top
 chcp.com
 kettledroopingcontinuation.com
-cardforum.cc
 gwadarport.ddns.net
 fnbo-access.icu
 arvest-login.icu
