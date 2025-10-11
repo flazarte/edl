@@ -1,3 +1,4 @@
+baidu.com
 94-130-16-162.top
 watchlist-verizon.com
 crm.jskymedia.com
@@ -351,7 +352,6 @@ microsoft.windows.search
 proxies.com
 polyfill.io
 scamanje.stresserit.pro
-baidu.com
 d3h0kq6r7hl0fr14kda0p9z8x5pf89fwa.oast.me
 disintegrateredundancyfen.com
 dropmicis.info
