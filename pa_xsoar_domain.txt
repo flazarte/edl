@@ -1,3 +1,4 @@
+chcp.com
 dashcdflare.com
 mbkes.com
 mnkcr.com
@@ -879,7 +880,6 @@ wikileaksv2.com
 ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion
 kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion
 c.mid.al
-chcp.com
 gwadarport.ddns.net
 fnbo-access.icu
 arvest-login.icu
