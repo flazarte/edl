@@ -1,3 +1,4 @@
+cardforum.cc
 satoshicommands.com
 hire.gworkmatch.com
 beastdositadvtofm.site
@@ -577,7 +578,6 @@ flushpersist.com
 proxied.com
 proxies.com
 coffeyelectric.com
-cardforum.cc
 teams-install.icu
 crdcrew.cc
 ainit.net
