@@ -1,3 +1,4 @@
+crdcrew.cc
 5movies.store
 xmr-eu1.nanopool.org
 cardforum.cc
@@ -635,7 +636,6 @@ proxied.com
 proxies.com
 coffeyelectric.com
 teams-install.icu
-crdcrew.cc
 ainit.net
 94-130-16-162.top
 123chill.site
