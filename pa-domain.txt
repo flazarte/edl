@@ -2794,6 +2794,7 @@ ipzse.com
 ipv6test.hz1818.com.cn
 ipv4.renfei.net
 ipv4-c050-hkg001-ix.1.oca.nflxvideo.net
+ipv4-c004-sfe001-pldt-isp.1.oca.nflxvideo.net
 ipm.adblock.dev
 iplogger.org
 iphone.vizvaz.com
@@ -2858,6 +2859,7 @@ igoee56leec46tcwhom2v3o110ge2h.appsync-api.us-west-2.avsvmcloud.com
 igoee56leec46t8whom2v3o1102e2h.appsync-api.us-west-2.avsvmcloud.com
 ieqg1kejo6oh10indmgnf4h.appsync-api.us-east-1.avsvmcloud.com
 ie339kow.kic-il.co
+ideone.com
 idea-secure-login.com
 ict.ictnsc.com
 icpk5r0mvd4uh8awjed10ge2h.appsync-api.us-east-2.avsvmcloud.com
@@ -13805,6 +13807,7 @@ a.110dhfyhr.space
 150520212.space
 15052021.space
 149-28-144-222.brdtnet.com
+139-180-142-89.brdtnet.com
 139-180-142-116.brdtnet.com
 13597-binance.com
 133bocmjd8ppsa8d00eu0los5jhea4vo.appsync-api.us-west-2.avsvmcloud.com
