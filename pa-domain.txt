@@ -13313,6 +13313,7 @@ api.nvidia-release.us
 api.nvidia-release.org
 api.nvidia-drive.cloud
 api.nmxquantify.com
+api.msn.com
 api.leakingprivacy.tk
 api.kingnfc.com
 api.kingcardnfc.com
