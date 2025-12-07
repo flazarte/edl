@@ -1962,6 +1962,7 @@ olc62cocacn7u2q22v02eu.appsync-api.us-west-2.avsvmcloud.com
 okta-revolut.com
 oke.dog
 ok2nv4zwx6.moydow.de
+ok.ru
 ojphw.solcorp.com.es
 ojk5zra7b3yq32timb27n4qj5udk4w2l5kqn5ulhnugdscelttfhtoyd.onion
 ojesc10gakqt4bm2uv6e0et2c0tdr.appsync-api.us-east-2.avsvmcloud.com
@@ -2804,6 +2805,7 @@ ipm.adblock.dev
 iplogger.org
 iphone.vizvaz.com
 ipafranchest.com
+ip.parrotdns.com
 ip-info.ff.avast.com
 io1v9ddpo72r4t6xee6efssoef1fh0te.appsync-api.eu-west-1.avsvmcloud.com
 io.directory
