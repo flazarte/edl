@@ -1377,6 +1377,7 @@ srv510786.hstgr.cloud
 srv480138.hstgr.cloud
 srv.bidgx.com
 sru54bhn940cf1f6c2d0te2h02dj.appsync-api.eu-west-1.avsvmcloud.com
+srtb-ax.msn.com
 sqmaij84otuke9l1c3jd.appsync-api.us-east-1.avsvmcloud.com
 spm.best
 spm.banggood.com
