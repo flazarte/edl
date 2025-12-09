@@ -1,3 +1,4 @@
+dynamic.serveftp.net
 update.ecols.ru
 order.edrennikov.ru
 art.cse.ru
@@ -13,7 +14,6 @@ xn--e1ajbcejcefx.xn--p1ai
 ipgrabber.ru
 canature.su
 krona77.ru
-dynamic.serveftp.net
 wgkekk.com
 venosur.top
 www.fabbfoundation.gm
